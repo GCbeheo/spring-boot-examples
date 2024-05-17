@@ -1,0 +1,90 @@
+version: 2
+updates:
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-jdbc-with-h2"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-jpa-spring-data-rest"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-jpa-with-hibernate-and-h2"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-myBatis-with-h2"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-basic"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-content-negotiation"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-exception-handling"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-filtering"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-validation"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-versioning"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-with-hateoas"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-2-rest-service-with-swagger"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-basic-microservice"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-kotlin-basics-configuration"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-react-examples"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-rest-services-with-unit-and-integration-tests"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-rest-services"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-tutorial-basics-configuration"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-tutorial-basics"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-tutorial-soap-web-services"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-web-application-bootstrap-jquery"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "maven"
+    directory: "/spring-boot-web-application"
+    schedule:
+      interval: "daily"
